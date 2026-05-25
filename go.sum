@@ -1,0 +1,6 @@
+github.com/01walid/goarabic v0.0.1 h1:3zZHwUpdYTnFlPuKzwD/j/xinIhAeFEoq61aFMJKV9s=
+github.com/01walid/goarabic v0.0.1/go.mod h1:Q+FvyKHDS8E3qNzZ76sdyr2D6yYeDW2QRY0t4Mx4CZI=
+golang.org/x/image v0.40.0 h1:Tw4GyDXMo+daZN1znreBRC3VayR1aLFUyUEOLUdW1a8=
+golang.org/x/image v0.40.0/go.mod h1:uIc348UZMSvS5Z65CVZ7iDPaNobNFEPeJ4kbqTOszmA=
+golang.org/x/text v0.37.0 h1:Cqjiwd9eSg8e0QAkyCaQTNHFIIzWtidPahFWR83rTrc=
+golang.org/x/text v0.37.0/go.mod h1:a5sjxXGs9hsn/AJVwuElvCAo9v8QYLzvavO5z2PiM38=
