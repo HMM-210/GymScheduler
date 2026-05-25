@@ -80,7 +80,7 @@ Now both environments are successfully running side-by-side, sharing information
 
 
 
-## التوثيق باللغة العربية
+## جدولة التمارين  🏋️‍♂️🤖
 
 ### 👋 كلمة من المطور (اقرأني أولاً!)
 
